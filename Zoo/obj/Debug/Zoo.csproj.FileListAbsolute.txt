@@ -1,0 +1,7 @@
+D:\Zoo\Zoo\Zoo\Zoo\bin\Debug\Zoo.exe.config
+C:\Users\Diana\Desktop\Zoo\Zoo\bin\Debug\Zoo.exe.config
+C:\Users\Diana\Desktop\Zoo\Zoo\bin\Debug\Zoo.exe
+C:\Users\Diana\Desktop\Zoo\Zoo\bin\Debug\Zoo.pdb
+C:\Users\Diana\Desktop\Zoo\Zoo\obj\Debug\Zoo.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Desktop\Zoo\Zoo\obj\Debug\Zoo.exe
+C:\Users\Diana\Desktop\Zoo\Zoo\obj\Debug\Zoo.pdb
