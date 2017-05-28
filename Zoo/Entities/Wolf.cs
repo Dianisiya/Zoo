@@ -9,5 +9,7 @@ namespace Zoo.Entities
     class Wolf:Animal
     {
         public override int MaxHealth => 4;
+
+        public override EKind Kind => EKind.Wolf;
     }
 }

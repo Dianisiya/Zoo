@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Zoo.Entities
 {
-    enum EKind
+    public enum EKind
     {
         Bear,
         Elephant,

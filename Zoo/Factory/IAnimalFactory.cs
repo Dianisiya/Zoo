@@ -7,7 +7,7 @@ using Zoo.Entities;
 
 namespace Zoo.Factory
 {
-    interface IAnimalFactory
+    public interface IAnimalFactory
     {
         Animal CreateAnimal(EKind kind, string name);
     }

@@ -35,6 +35,12 @@ namespace Zoo.Entities
                 Health--;
             }
         }
-        
+
+        public abstract EKind Kind { get; }
+
+        public override string ToString()
+        {
+            return $"{Name} {Kind} {State} {Health}";
+        }
     }
 }
